@@ -4,5 +4,5 @@
 /**
  * 
  */
-module GitDemoProject {
+module GitProject {
 }
