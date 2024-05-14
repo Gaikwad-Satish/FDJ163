@@ -13,6 +13,12 @@ public class Demo1 {
 	{
 		System.out.println(5*2);
 	}
+
+	public static void m1()
+	{
+
+		System.out.println("Today's changes");
+	}
 	
 	public static void main(String[] args)
 	{
