@@ -19,6 +19,10 @@ public class Demo1 {
 
 		System.out.println("Today's changes");
 	}
+	public static void m2()
+	{
+		System.out.println("This is new branch");
+	}
 	
 	public static void main(String[] args)
 	{
